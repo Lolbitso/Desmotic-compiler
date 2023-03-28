@@ -1,4 +1,4 @@
-desmotic commands:
+desmotic commands
 
 name |# of values |desc                          |
 -----|------------|------------------------------|
