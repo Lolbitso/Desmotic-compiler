@@ -1,6 +1,6 @@
 desmotic commands:
 
-name:|# of values:|desc:                         |
+name |# of values |desc                          |
 -----|------------|------------------------------|
      |            |                              |
 -if  |      3     | if a = b then c              |
