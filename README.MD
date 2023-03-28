@@ -1,18 +1,17 @@
 desmotic commands
 
-name |# of values |desc                          |
------|------------|------------------------------|
-     |            |                              |
--if  |      3     | if a = b then c              |
--xor |      3     | if only one then c           |
--or  |      3     | if any then c                |
--and |      2     | if both then c               |
--nand|      3     | if not both then c           |
--xnor|      3     | if they equal then c         |
--nor |      3     | if both are 0 then c         |
--make|      2     | set a var                    |
--line|      4     | use cords to draw a line     |
--tri |      6     | use cords to draw a triangle |
+name ,# of values,desc                          
+                                               
+-if        3      if a = b then c              
+-xor       3      if only one then c           
+-or        3      if any then c                
+-and       2      if both then c               
+-nand      3      if not both then c           
+-xnor      3      if they equal then c         
+-nor       3      if both are 0 then c         
+-make      2      set a var                    
+-line      4      use cords to draw a line     
+-tri       6      use cords to draw a triangle 
 
 for the logic commands they work so that if its true then it outputs the last value
 
